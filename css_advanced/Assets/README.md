@@ -1,1 +1,1 @@
-This is folder for my assets
+My CSS PHOTOS
